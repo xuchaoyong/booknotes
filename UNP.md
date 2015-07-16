@@ -15,4 +15,6 @@ Its advantages?
 1. twice as fast as a TCP socket;
 2. Passing descriptors between processes on the same host;
 3. Provide client's credentials;
-4. 
+
+AF_INET Address Family Internet Address
+AF_LOCAL Address Family local host
